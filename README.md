@@ -1,2 +1,2 @@
 # Blogs-node.js
-Making a Blog website
+A Blog website
